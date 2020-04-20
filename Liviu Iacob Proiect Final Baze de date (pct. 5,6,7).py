@@ -17,6 +17,7 @@
 import mysql.connector
 
 # imi creez in workbench baza de date pythonliviuiacob
+# Test change - please delete this line
 
 # Credentiale conectare
 host = "localhost"
